@@ -1,0 +1,11 @@
+*__pycache__*
+bvh_single/*
+bvh_multi/*
+fbx_single/*
+fbx_multi/*
+*.fbm*
+*.bck*
+fbx_single.zip
+fbx_multi.zip
+bvh_single.zip
+bvh_multi.zip
